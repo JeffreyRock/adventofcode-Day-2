@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PersonalProjects\\DayOfCoding\\adventofcode-Day-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4D9D29-B9AB-46E0-8389-3D3DC54C8CEB}|DayOfCoding\\DayOfCoding.csproj|e:\\personalprojects\\dayofcoding\\adventofcode-day-2\\dayofcoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4D9D29-B9AB-46E0-8389-3D3DC54C8CEB}|DayOfCoding\\DayOfCoding.csproj|solutionrelative:dayofcoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PersonalProjects\\DayOfCoding\\adventofcode-Day-2\\DayOfCoding\\Program.cs",
+              "RelativeDocumentMoniker": "DayOfCoding\\Program.cs",
+              "ToolTip": "E:\\PersonalProjects\\DayOfCoding\\adventofcode-Day-2\\DayOfCoding\\Program.cs",
+              "RelativeToolTip": "DayOfCoding\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T01:03:50.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
